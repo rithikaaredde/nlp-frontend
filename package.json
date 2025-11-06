@@ -16,7 +16,7 @@
     "@react-navigation/native-stack": "^6.9.12",
     "expo": "~51.0.8",
     "expo-linear-gradient": "~12.7.2",
-    "expo-local-authentication": "~14.5.1",
+    "expo-local-authentication": "~13.7.1",
     "expo-status-bar": "~2.0.0",
     "react": "18.2.0",
     "react-native": "0.74.3",
@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "@types/react": "~18.2.48",
-    "@types/react-native": "^0.73.0",
+    "@types/react-native": "^0.77.10",
     "typescript": "~5.3.3"
   }
 }
